@@ -1,0 +1,23 @@
+fieldID,fieldName,fieldType,defaultValue,secondaryValue,fieldDescription,minValue,maxValue,tab
+portraitChanger_header1,header1,Header,Miscellaneous Settings,,,,,Portrait Changer
+portraitChanger_showCountNum,Show Portrait Numbers,Boolean,true,,"If enabled, a number is displayed below each selectable portrait.",,,Portrait Changer
+portraitChanger_imageNumInOneRowSelector,Characters Per Row,Int,6,,"Sets the maximum number of selectable characters displayed per row, including their names and portraits.
+If your [resolution] is high, consider increasing this value to use the empty space on the right.",1,20,Portrait Changer
+portraitChanger_imageNumInOneRow,Portraits Per Row,Int,9,,"Sets the maximum number of selectable portraits displayed per row.
+If your [resolution] is high, consider increasing this value to use the empty space on the right.",1,20,Portrait Changer
+portraitChanger_defaultGender,Default Portrait Gender,Radio,Female,"Male, Female","Choose which portrait gender is shown first when opening the portrait library.",,,Portrait Changer
+portraitChanger_allFactions,Use Portraits from All Factions,Boolean,false,,"If enabled, portraits from every faction, including hidden factions such as the Remnants, are added to the selection pool.
+By default, only the player faction's portrait pool is used.",,,Portrait Changer
+portraitChanger_header2,header2,Header,Eligible Characters,,,,,Portrait Changer
+portraitChanger_player,Player,Boolean,true,,"Allow changing the player's portrait.",,,Portrait Changer
+portraitChanger_officer,Officers,Boolean,true,,"Allow changing the portraits of all player officers.",,,Portrait Changer
+portraitChanger_admin,Human Administrators,Boolean,true,,"Allow changing the portraits of all player-employed human administrators.",,,Portrait Changer
+portraitChanger_nex_agent,Agents,Boolean,false,,"Allow changing the portraits of Nexerelin [agents].",,,Portrait Changer
+portraitChanger_ai_admin,AI Administrators,Boolean,false,,"Allow changing the portraits of [Alpha Cores] serving as administrators at player colonies.",,,Portrait Changer
+portraitChanger_importantPeople,Important People,Boolean,false,,"Allow changing the portraits of certain important people in the main story.
+
+[Only enable this if you know what you're doing - and you're sure you want to.]",,,Portrait Changer
+portraitChanger_currentMarketNpc,Current Planet/Station NPCs,Boolean,true,,"Allow changing the portraits, names, and genders of NPCs registered at the planet or station currently being visited.",,,Portrait Changer
+portraitChanger_playerMarketCommDirectory,Colony Contacts,Boolean,false,,"Allow changing the portraits of people listed in the comm directories of colonies you control.
+
+Requires [SimpleIndustryOptionProvider] to function.",,,Portrait Changer

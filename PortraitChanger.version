@@ -1,0 +1,12 @@
+{
+  "masterVersionFile": "https://raw.githubusercontent.com/Mirarara/PortraitChanger/main/PortraitChanger.version",
+  "modName": "Portrait Changer",
+  "modThreadId": 0,
+  "modVersion": {
+    "major": 1,
+    "minor": 0,
+    "patch": "7a"
+  },
+  "starsectorVersion": "0.98a-RC8",
+  "directDownloadURL": "https://github.com/Mirarara/PortraitChanger/releases/download/v1.0.7/PortraitChanger-1.0.7a.zip"
+}
