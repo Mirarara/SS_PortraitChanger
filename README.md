@@ -47,4 +47,4 @@ The upstream 1.0.7 release did not include its current source. `lib\PortraitChan
 
 ## Credits
 
-Original mod by CY and Lukas04. English translated from Chinese version and feature added by Mirarara.
+Original English mod by CY and Lukas04. Chinese mod by 没技术，是菜鸡. English translation and additional features by Mirarara.
