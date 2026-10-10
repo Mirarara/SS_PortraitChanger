@@ -47,7 +47,7 @@ class PortraitChangerIntel : BaseIntelPlugin() {
 
     private val isNexerelin = Global.getSettings().modManager.isModEnabled("nexerelin")
 
-    private val importantPeopleIds = listOf(
+    private fun importantPeopleIds() = listOf(
         People.DAUD,
         People.ANDRADA,
         People.MACARIO,
@@ -115,7 +115,7 @@ class PortraitChangerIntel : BaseIntelPlugin() {
 
     private fun importantPeople(): List<PersonAPI> {
         val registry = Global.getSector().importantPeople
-        return importantPeopleIds.mapNotNull(registry::getPerson)
+        return importantPeopleIds().mapNotNull(registry::getPerson)
     }
 
     private fun eligiblePeople(): List<PersonAPI> {

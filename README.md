@@ -2,7 +2,7 @@
 
 Portrait Changer adds an Intel screen for changing the portraits, names, and genders of the main character, officers, administrators, and NPCs at the current planet or station.
 
-Version 1.0.7a is an English translation and fork of the Chinese 1.0.7 release, which was developed from the original English 1.0.1 version by CY and Lukas04. This fork translates its newer features back into English and adds:
+This is an English translation and fork of the Chinese 1.0.7 release, which was developed from the original English 1.0.1 version by CY and Lukas04. This fork translates its newer features back into English and adds:
 
 - every NPC registered at the market currently being visited;
 - gender changes for every character whose portrait can be changed;

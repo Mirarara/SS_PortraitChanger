@@ -2,7 +2,7 @@
   "id": "portrait_changer",
   "name": "Portrait Changer",
   "author": "CY / Lukas04 / 没技术，是菜鸡 / Mirarara",
-  "version": "1.0.7a",
+  "version": "1.0.7b",
   "description": "Change portraits, names, and genders for the main character, officers, administrators, and NPCs at the current planet or station through an Intel screen.",
   "gameVersion": "0.98a-RC8",
   "jars": ["jars/PortraitChanger.jar"],
